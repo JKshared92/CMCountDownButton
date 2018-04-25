@@ -1,0 +1,6 @@
+framework module CMCountDownButton {
+  umbrella header "CMCountDownButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

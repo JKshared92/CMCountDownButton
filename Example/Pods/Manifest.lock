@@ -1,0 +1,23 @@
+PODS:
+  - CMCountDownButton (0.1.0):
+    - MSWeakTimer
+  - MSWeakTimer (1.1.0)
+
+DEPENDENCIES:
+  - CMCountDownButton (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - MSWeakTimer
+
+EXTERNAL SOURCES:
+  CMCountDownButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CMCountDownButton: 7f035db13f0ee89bb9113cdaa6657b8183f67dc2
+  MSWeakTimer: 9426150f933b80ed3acf3f6d228e4b61f0e303c8
+
+PODFILE CHECKSUM: b8ce1cb0f133226757551975a84b7823b996984b
+
+COCOAPODS: 1.5.0

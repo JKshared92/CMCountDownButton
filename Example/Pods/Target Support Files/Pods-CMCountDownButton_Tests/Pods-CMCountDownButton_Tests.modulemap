@@ -1,0 +1,6 @@
+framework module Pods_CMCountDownButton_Tests {
+  umbrella header "Pods-CMCountDownButton_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

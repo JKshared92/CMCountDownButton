@@ -338,10 +338,12 @@
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-CMCountDownButton_Example/Pods-CMCountDownButton_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/CMCountDownButton/CMCountDownButton.framework",
+				"${BUILT_PRODUCTS_DIR}/MSWeakTimer/MSWeakTimer.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CMCountDownButton.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MSWeakTimer.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
