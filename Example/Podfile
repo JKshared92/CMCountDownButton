@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CMCountDownButton_Example' do
+  pod 'CMCountDownButton', :path => '../'
+
+  target 'CMCountDownButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
